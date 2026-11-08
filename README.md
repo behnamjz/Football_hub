@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./banner.jpg"
+    alt="Football Hub Arduino Board"
+    width="600"
+  />
+</p>
+
 # Football Hub
 
 **Version:** 0.0.1
