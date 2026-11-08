@@ -1,4 +1,3 @@
-
 #ifndef CLUB_LOGOS_H
 #define CLUB_LOGOS_H
 
